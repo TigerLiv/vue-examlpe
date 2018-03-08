@@ -1,0 +1,12 @@
+.container {
+    /* padding: 25px; */
+    height: calc(100vh - 115px)
+}
+.btn-left {
+    float: left;
+    margin-bottom: 20px !important;
+}
+.btn-right {
+    float: right;
+    margin-bottom: 20px !important;
+}
